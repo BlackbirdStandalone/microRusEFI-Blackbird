@@ -18,28 +18,28 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center"><b>microRusEFI pin #</b></td>
-<td align="center" valign="center"><b>Honda harness pin #</b></td>
+<td align="center" valign="center"><b>Honda harness connector colour / (pin #)</b></td>
 <td align="center" valign="center"><b>Honda harness wire colour</b></td>
 <td align="center" valign="center"><b>Function</b></td>
 </tr>
 
 <tr>
 <td align="center" valign="center">1</td>
-<td align="center" valign="center">Gray (B2)</td>
+<td align="center" valign="center">Gray / (B2)</td>
 <td align="center" valign="center">Black/white</td>
 <td align="center" valign="center">12v Power from Key ignition.<br />Co-joined to microRusEfi pin 5.</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">2</td>
-<td align="center" valign="center">Black (A10)</td>
+<td align="center" valign="center">Black / (A10)</td>
 <td align="center" valign="center">Green/pink</td>
 <td align="center" valign="center">Main ground #1</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">3</td>
-<td align="center" valign="center">Black (A17)</td>
+<td align="center" valign="center">Black / (A17)</td>
 <td align="center" valign="center">Green/blue</td>
 <td align="center" valign="center">FAN (relay)</td>
 </tr>
@@ -53,23 +53,23 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">5</td>
-<td align="center" valign="center">Gray (B2)</td>
+<td align="center" valign="center">Gray / (B2)</td>
 <td align="center" valign="center">Black/white</td>
 <td align="center" valign="center">12v Power from Key ignition.<br />Co-joined to microRusEfi pin 1.</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">6</td>
-<td align="center" valign="center">Black (A11)</td>
+<td align="center" valign="center">Black / (A11)</td>
 <td align="center" valign="center">Green</td>
 <td align="center" valign="center">Main ground #2</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">7</td>
-<td align="center" valign="center">Black (A6)</td>
+<td align="center" valign="center">Black / (A6)</td>
 <td align="center" valign="center">Brown/black</td>
-<td align="center" valign="center">FUEL PUMP OUT (relay)</td>
+<td align="center" valign="center">FUEL PUMP (relay)</td>
 </tr>
 
 <tr>
@@ -81,14 +81,14 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">9</td>
-<td align="center" valign="center">Black (A9)</td>
+<td align="center" valign="center">Black / (A9)</td>
 <td align="center" valign="center">Yellow/blue</td>
 <td align="center" valign="center">Ignition #1.<br />(Coil for cyl #1 & #4)<br />R.H.S on bike</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">10</td>
-<td align="center" valign="center">Black (A20)</td>
+<td align="center" valign="center">Black / (A20)</td>
 <td align="center" valign="center">Blue/yellow</td>
 <td align="center" valign="center">Ignition #2.<br />(Coil for cyl #2 & #3)<br />L.H.S on bike</td>
 </tr>
@@ -137,14 +137,14 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">17</td>
-<td align="center" valign="center">Black (A22)</td>
+<td align="center" valign="center">Black / (A22)</td>
 <td align="center" valign="center">Green/pink</td>
-<td align="center" valign="center">Signal ground</td>
+<td align="center" valign="center">Signal ground.<br />Co-joined to microRusEfi pin 21.</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">18</td>
-<td align="center" valign="center">Gray (B13)</td>
+<td align="center" valign="center">Gray / (B13)</td>
 <td align="center" valign="center">Pink/white</td>
 <td align="center" valign="center">CLT</td>
 </tr>
@@ -158,16 +158,16 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">20</td>
-<td align="center" valign="center">Gray (B9)</td>
+<td align="center" valign="center">Gray / (B9)</td>
 <td align="center" valign="center">Red/yellow</td>
 <td align="center" valign="center">TPS</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">21</td>
-<td align="center" valign="center">Black (A22)</td>
+<td align="center" valign="center">Black / (A22)</td>
 <td align="center" valign="center">Green/pink</td>
-<td align="center" valign="center">Signal ground</td>
+<td align="center" valign="center">Signal ground.<br />Co-joined to microRusEfi pin 17.</td>
 </tr>
 
 <tr>
@@ -179,7 +179,7 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">23</td>
-<td align="center" valign="center">Gray (B6)</td>
+<td align="center" valign="center">Gray / (B6)</td>
 <td align="center" valign="center">Gray/blue</td>
 <td align="center" valign="center">IAT</td>
 </tr>
@@ -207,7 +207,7 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">27</td>
-<td align="center" valign="center">Gray (B7)</td>
+<td align="center" valign="center">Gray / (B7)</td>
 <td align="center" valign="center">Green/yellow</td>
 <td align="center" valign="center">MAP</td>
 </tr>
@@ -242,8 +242,8 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">32</td>
-<td align="center" valign="center">Gray (B5)</td>
-<td align="center" valign="center"><i>TBD</i></td>
+<td align="center" valign="center">Gray / (B5)</td>
+<td align="center" valign="center">Orange/white</td>
 <td align="center" valign="center">O2 sensor</td>
 </tr>
 
@@ -263,9 +263,9 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">35</td>
-<td align="center" valign="center">-</td>
-<td align="center" valign="center">-</td>
-<td align="center" valign="center">-</td>
+<td align="center" valign="center">Black / (A19)</td>
+<td align="center" valign="center">Yellow/green</td>
+<td align="center" valign="center">Tacho output</td>
 </tr>
 
 <tr>
@@ -277,14 +277,14 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">37</td>
-<td align="center" valign="center">Black (A13)</td>
+<td align="center" valign="center">Black / (A13)</td>
 <td align="center" valign="center">Pink/yellow</td>
 <td align="center" valign="center">Fuel injector #1</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">38</td>
-<td align="center" valign="center">Black (A2)</td>
+<td align="center" valign="center">Black / (A2)</td>
 <td align="center" valign="center">Pink/blue</td>
 <td align="center" valign="center">Fuel injector #2</td>
 </tr>
@@ -305,14 +305,14 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">41</td>
-<td align="center" valign="center">Black (A12)</td>
+<td align="center" valign="center">Black / (A12)</td>
 <td align="center" valign="center">Pink/green</td>
 <td align="center" valign="center">Fuel injector #3</td>
 </tr>
 
 <tr>
 <td align="center" valign="center">42</td>
-<td align="center" valign="center">Black (A1)</td>
+<td align="center" valign="center">Black / (A1)</td>
 <td align="center" valign="center">Pink/black</td>
 <td align="center" valign="center">Fuel injector #4</td>
 </tr>
@@ -326,7 +326,7 @@ The microRusEFI pinout can be found [here](https://rusefi.com/docs/pinouts/micro
 
 <tr>
 <td align="center" valign="center">44</td>
-<td align="center" valign="center">Gray (B1)</td>
+<td align="center" valign="center">Gray / (B1)</td>
 <td align="center" valign="center">Yellow/red</td>
 <td align="center" valign="center">5v sensor supply from ECU</td>
 </tr>
